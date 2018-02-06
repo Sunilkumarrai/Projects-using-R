@@ -1,9 +1,5 @@
 
 
-setwd("D:\\IIT\\Semester fall 17\\Data Analytics\\BikeSharingProject")
-
-rm(list=ls())
-
 multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
         library(grid)
         
