@@ -26,7 +26,8 @@ Casual - Number of non-registered user rentals initiated
 Registered - number of registered user rentals initiated
 Count - number of total rentals 
 
-##Alogrithm Used
+###Alogrithm Used
+
 Linear and Time Series used for analyzing the data.
 ### 
 ## Authors
