@@ -1,12 +1,12 @@
 # Bike sharing Demand
 
-Bike sharing systems are a means of renting bicycles and people can rent a bike from one location and return it to a different or same place. 
+Bike sharing systems are means of renting bikes and people can rent a bike from one location and return it to a different or same place. 
 The process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city.
 
 ## Objective
 
-To predict the number of bicycles that can be rented.
-To understand how factors like Daily , hours, holidays and temperature influence the demand of bikes:
+To predict the number of bikes that will be rented.
+To understand how factors like Daily , hours, holidays and temperature influence the demand of bikes.
 
 ### Data Fields in Dataset
 Hourly rental data spanning two years and there  are 7 categorical variables and 4 continuous variables
@@ -27,9 +27,8 @@ Registered - number of registered user rentals initiated
 Count - number of total rentals 
 
 #### Alogrithm Used
+Regression and Time Series used for analyzing the data.
+###
 
-Linear and Time Series used for analyzing the data.
-### 
-## Authors
-
+## Author
 Sunil Kumar Rai
