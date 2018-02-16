@@ -1,1 +1,1 @@
-# R code for various projects.
+# R code for projects.
